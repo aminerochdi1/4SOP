@@ -13,6 +13,14 @@ And its completely open-source.
  
 ![image](https://user-images.githubusercontent.com/1884712/121497169-03228680-c990-11eb-975a-e77fddc43de0.png)
 
+## Vercel Link
+
+ <a href="https://4-sop.vercel.app">
+  <p>Vercel Template</p>
+  </a> 
+
+## Analytics
+
 ## How to use
 
 Click on the [Use Template](https://github.com/surjithctly/nextly-template/generate) button on this page to clone this respository to your github account. Or you can also clone this respository using terminal or bash. 
